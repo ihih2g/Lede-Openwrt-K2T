@@ -18,7 +18,10 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 
+
 # 应用过滤OpenAppFilter 【luci oaf app】
 # 和加速模块（Turbo ACC)有冲突，需要关闭Turboo ACC后使用
-#git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter 
+#git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+#云音乐
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
 
