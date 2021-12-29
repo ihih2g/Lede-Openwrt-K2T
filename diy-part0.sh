@@ -23,5 +23,5 @@ echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.defa
 # 和加速模块（Turbo ACC)有冲突，需要关闭Turboo ACC后使用
 #git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #云音乐
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
+#git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
 
